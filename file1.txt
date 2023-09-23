@@ -1,4 +1,4 @@
-My first commit
+text from master
 add some new text
 fixing some test during pipeline run
 new fix
