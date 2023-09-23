@@ -1,4 +1,4 @@
-text from master
+from add-feature3
 add some new text
 fixing some test during pipeline run
 new fix
